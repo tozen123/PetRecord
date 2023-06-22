@@ -1,0 +1,7 @@
+C:\Users\lanzu\source\repos\PetRecord\PetRecord\bin\Debug\PetRecord.exe.config
+C:\Users\lanzu\source\repos\PetRecord\PetRecord\bin\Debug\PetRecord.exe
+C:\Users\lanzu\source\repos\PetRecord\PetRecord\bin\Debug\PetRecord.pdb
+C:\Users\lanzu\source\repos\PetRecord\PetRecord\obj\Debug\PetRecord.csproj.AssemblyReference.cache
+C:\Users\lanzu\source\repos\PetRecord\PetRecord\obj\Debug\PetRecord.csproj.CoreCompileInputs.cache
+C:\Users\lanzu\source\repos\PetRecord\PetRecord\obj\Debug\PetRecord.exe
+C:\Users\lanzu\source\repos\PetRecord\PetRecord\obj\Debug\PetRecord.pdb
